@@ -1,4 +1,4 @@
-# pptx-animate
+# pptx-animate-skill
 
 给 `.pptx` 加**真实的**入场动画与页面切换效果，写进 OOXML，在 PowerPoint 里可以继续编辑和播放。
 
