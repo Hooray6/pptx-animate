@@ -20,7 +20,7 @@
 作为 Claude Code skill：
 
 ```bash
-git clone https://github.com/<your-name>/pptx-animate.git ~/.claude/skills/pptx-animate
+git clone https://github.com/Hooray6/pptx-animate.git ~/.claude/skills/pptx-animate
 ```
 
 之后 Claude Code 会在你提到「给 PPT 加动画」时自动加载它。
